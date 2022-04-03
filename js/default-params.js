@@ -1,3 +1,3 @@
-function sayGreeting(greeting = 'Goodmorning', name = 'student') {
+function sayGreeting(greeting = 'Good afternoon', name = 'student') {
     return `${greeting}, ${name}!`;
 }
